@@ -42,6 +42,11 @@ p {
     text-align: center;
 }
 
+.scr-shot {
+    margin: auto 0;
+    display: inline-block;
+}
+
 /* Links */
 a {
     color: #3498db;
